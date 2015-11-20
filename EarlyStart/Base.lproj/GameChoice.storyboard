@@ -298,7 +298,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="g0d-VT-RYi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-16" y="-419"/>
+            <point key="canvasLocation" x="-16" y="-341"/>
         </scene>
         <!--ShapesGame-->
         <scene sceneID="ADI-f8-1aN">
@@ -412,7 +412,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RVg-YK-HWU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="640" y="104"/>
+            <point key="canvasLocation" x="640" y="-341"/>
         </scene>
     </scenes>
 </document>
